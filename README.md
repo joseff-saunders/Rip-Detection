@@ -12,6 +12,6 @@ The second to last section (# Dsiplay annotation UI) is where the rip identifica
   Once happy, press Submit to load the next image and store your annotations.
   To undo a box, simply click on it and it will dissappear. 
 
-When complete, navigate to the Files tab on the far left of the Google Colab screen. Click the content/Rip folder. 
+When complete, navigate to the Files tab on the far left of the Google Colab screen. Click the content/Rip-Detection/Rip folder. 
 
 Download the rip_current_annotations.json file, rename to include your initials and email across. 
